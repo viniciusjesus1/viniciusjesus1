@@ -2,7 +2,6 @@
 
 - 🔭 Em busca do meu primeiro emprego como programador.
 - 🌱 No momento estudando JS, HTML e CSS
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/viniciusjesus1">
